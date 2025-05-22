@@ -112,7 +112,7 @@ This page uncovers underlying contributors to variance and how they trend over t
 
 ## 💬 Feedback & Collaboration
 
-Have feedback or ideas to improve this report? Open an issue or connect with me on [LinkedIn]([https://linkedin.com/in/YOURHANDLE](https://www.linkedin.com/in/emmanuel-idowu-analyst/)).
+Have feedback or ideas to improve this report? Open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-idowu-analyst/).
 
 ---
 
