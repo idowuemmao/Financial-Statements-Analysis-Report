@@ -116,6 +116,6 @@ Have feedback or ideas to improve this report? Open an issue or connect with me 
 
 ---
 
-**Made with 💡 by Emmanuel Idowu**  
+**Made by Emmanuel Idowu**  
 
 
